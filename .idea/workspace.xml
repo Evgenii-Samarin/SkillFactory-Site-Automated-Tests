@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1f5a9db-95b0-4953-9f66-fac66c86f355" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chess/Chess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/Bishop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/ChessPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chess/src/Rook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/NavigateTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SeleniumTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maventest/src/main/java/ru/skillfactory/qajava/maven/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maventest/src/test/java/ru/skillfactory/qajava/maven/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-23/lib/src.zip!/java.base/java/lang/IllegalStateException.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2mEhQMhcwUTHGTqitkeCsBcHghR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CoursesTest (1).executor": "Run",
+    "JUnit.CoursesTest.executor": "Run",
+    "JUnit.CoursetestTest.analicticData.executor": "Run",
+    "JUnit.CoursetestTest.coursetest.executor": "Run",
+    "JUnit.CoursetestTest.executor": "Run",
+    "JUnit.HomePageTest.coursetest.executor": "Run",
+    "JUnit.MainPageTest.executor": "Run",
+    "JUnit.SeleniumTests.AnalicticData.executor": "Run",
+    "JUnit.SeleniumTests.Corporat.executor": "Run",
+    "JUnit.SeleniumTests.Management.executor": "Run",
+    "JUnit.SeleniumTests.Media.executor": "Run",
+    "JUnit.SeleniumTests.Programmirovanie.executor": "Run",
+    "JUnit.SeleniumTests.allcurses.executor": "Run",
+    "JUnit.SeleniumTests.executor": "Run",
+    "JUnit.SeleniumTests.management.executor": "Run",
+    "JUnit.TestTest.executor": "Run",
+    "JUnit.Tests in untitled3.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.HomePageTest (1).executor": "Run",
+    "TestNG.HomePageTest.executor": "Run",
+    "TestNG.HomePageTest.locatorTest.executor": "Run",
+    "TestNG.HomePageTest.locatorTestNegative.executor": "Run",
+    "TestNG.HomePageTest.locatorTestnegative.executor": "Run",
+    "TestNG.HomePageTest.testClickCoursesButton.executor": "Run",
+    "TestNG.HomePageTest.testCoursesCount.executor": "Run",
+    "TestNG.HomePageTest.testExternalLinkNavigation.executor": "Run",
+    "TestNG.HomePageTest.testFooterInformation.executor": "Run",
+    "TestNG.HomePageTest.testMainMenuVisibility.executor": "Run",
+    "TestNG.HomePageTest.testNavigateBackToHomePage.executor": "Run",
+    "TestNG.HomePageTest.testNavigateBackToHomePageFromContacts.executor": "Run",
+    "TestNG.HomePageTest.testNavigateToAboutSchoolSection.executor": "Run",
+    "TestNG.HomePageTest.testNavigateToBloggersPage.executor": "Run",
+    "TestNG.HomePageTest.testNavigateToCareerPage.executor": "Run",
+    "TestNG.HomePageTest.testNavigateToReviewsPage.executor": "Run",
+    "TestNG.HomePageTest.testNavigateToVacanciesSection.executor": "Run",
+    "TestNG.HomePageTest.testPageLoadTime.executor": "Run",
+    "TestNG.HomePageTest.testPageOpensAfterClick.executor": "Run",
+    "TestNG.HomePageTest.testResponsiveLayout.executor": "Run",
+    "TestNG.NavigateTests.executor": "Run",
+    "TestNG.Tests.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HYPERPC/IdeaProjects/SkillFactorySiteAutomatedTests",
+    "onboarding.tips.debug.path": "C:/Users/HYPERPC/IdeaProjects/untitled3/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2908046",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HYPERPC\IdeaProjects\untitled3\src\test\java\Tests" />
+      <recent name="C:\Users\HYPERPC\IdeaProjects\untitled3\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SeleniumTests.Management">
+    <configuration name="SeleniumTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SeleniumTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTests.Management" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SeleniumTests" />
+      <option name="METHOD_NAME" value="Management" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigateTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.NavigateTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeleniumTests.Management" />
+        <item itemvalue="JUnit.SeleniumTests" />
+        <item itemvalue="TestNG.NavigateTests" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f5a9db-95b0-4953-9f66-fac66c86f355" name="Changes" comment="" />
+      <created>1726647631192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726647631192</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -14,24 +14,13 @@
       <change afterPath="$PROJECT_DIR$/../Chess/src/Pawn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Chess/src/Queen.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Chess/src/Rook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/HomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/NavigateTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SeleniumTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../maventest/src/main/java/ru/skillfactory/qajava/maven/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../maventest/src/test/java/ru/skillfactory/qajava/maven/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled2/src/Alphabet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Evgenii-Samarin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Evgenii-Samarin/SkillFactory-Automated-Tests",
+    "accountId": "86a0434f-9153-46dd-97cc-aae8eb82d532"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/openjdk-23/lib/src.zip!/java.base/java/lang/IllegalStateException.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -228,5 +230,28 @@
       <updated>1726647631192</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

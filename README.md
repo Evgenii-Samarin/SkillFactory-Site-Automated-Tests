@@ -28,7 +28,7 @@ ChromeDriver (или любой другой WebDriver в зависимости
 
 ## Установка
 1. Установите Java, Maven и ChromeDriver (или другой WebDriver).
-2. Клонируйте репозиторий: git clone <ваша ссылка на репозиторий>
+2. Клонируйте репозиторий: git clone https://github.com/Evgenii-Samarin/SkillFactory-Site-Automated-Tests
 3. Установите зависимости проекта: mvn dependency:resolve
 
 ## Запуск тестов

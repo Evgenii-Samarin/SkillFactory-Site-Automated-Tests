@@ -92,7 +92,6 @@ public class HomePage {
         }
     }
 
-
     public void clickvacanciesMenu() {
         WebDriverWait wait = new WebDriverWait(driver, 10);
         try {
